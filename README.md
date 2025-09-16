@@ -387,13 +387,3 @@ La API maneja los siguientes códigos de error:
 **Descripción**: Prueba técnica GTOP
 
 Para más información sobre el proyecto o consultas técnicas, contactar al desarrollador responsable.
-
-## 🔗 Enlaces Útiles
-
-- [Spring Boot 3.5.5 Documentation](https://docs.spring.io/spring-boot/docs/3.5.5/reference/html/)
-- [Spring Security Reference](https://docs.spring.io/spring-security/reference/)
-- [JJWT Documentation](https://github.com/jwtk/jjwt) - Librería JWT utilizada
-- [SpringDoc OpenAPI](https://springdoc.org/) - Documentación automática
-- [H2 Database Documentation](https://www.h2database.com/html/main.html)
-- **Swagger UI**: `http://localhost:8080/swagger-ui.html` (una vez ejecutada la app)
-- **H2 Console**: `http://localhost:8080/h2-console` (para desarrollo)
