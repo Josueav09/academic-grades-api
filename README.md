@@ -381,11 +381,6 @@ La API maneja los siguientes códigos de error:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abrir Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles.
-
-## 📞 Contacto
 
 **Proyecto**: Prueba Técnica - API de Gestión de Calificaciones Académicas  
 **Versión**: 0.0.1-SNAPSHOT  
