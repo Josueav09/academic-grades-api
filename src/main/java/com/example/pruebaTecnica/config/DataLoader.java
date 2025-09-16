@@ -42,7 +42,6 @@ public class DataLoader implements CommandLineRunner {
         logger.info("Cargando datos de prueba...");
 
         // Crear usuarios de prueba con roles
-        // Crear usuarios de prueba con roles
         User teacher = new User("teacher1", "teacher1@example.com", passwordEncoder.encode("password123"), "TEACHER");
         User student = new User("student1", "student1@example.com", passwordEncoder.encode("password123"), "STUDENT");
 
