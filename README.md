@@ -386,4 +386,3 @@ La API maneja los siguientes códigos de error:
 **Versión**: 0.0.1-SNAPSHOT  
 **Descripción**: Prueba técnica GTOP
 
-Para más información sobre el proyecto o consultas técnicas, contactar al desarrollador responsable.
